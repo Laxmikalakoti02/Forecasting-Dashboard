@@ -101,3 +101,5 @@ Inventory prediction
 Revenue trend analysis
 
 Performance monitoring
+7.Snapshot/Demo
+https://github.com/Laxmikalakoti02/Forecasting-Dashboard/commit/20c7079315740be2aa5d8505a6f76a0dd2a30a2c
